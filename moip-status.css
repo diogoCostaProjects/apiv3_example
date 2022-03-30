@@ -1,0 +1,77 @@
+/* STATUS DE PAGAMENTO MOIP */
+
+.status-pagamento{
+  padding: 3px 8px;
+  border: 1px solid;
+  border-radius: 3px;
+  font-weight: bold;
+  color: #fff;
+}
+.status-criado{
+  border-color: #006180;
+  background-color: #00618080;
+}
+.status-aguardando{
+  border-color: #ffa500;
+  background-color:#ffa500b3;
+}
+.status-emanalise{
+  border-color: #f86d19;
+  background-color: #f86d1980;
+}
+.status-preautorizado{
+  border-color: #e553be;
+  background-color: #e553beb3;
+}
+.status-autorizado{
+  border-color: #651766;
+  background-color: #651766b3;
+}
+.status-cancelado{
+  border-color: #ff0018;
+  background-color: #ff0018b3;
+}
+.status-reembolsado{
+  border-color: #22436e;
+  background-color: #22436eb3;
+}
+.status-estornado{
+  border-color: #058366;
+  background-color: #058366b3;
+}
+.status-concluido{
+  border-color: #008000;
+  background-color: #00800080;
+}
+
+
+
+/****STATUS ENVIO****/
+.status-pedido{
+  padding: 3px 8px;
+  border: 1px solid;
+  border-radius: 3px;
+  font-weight: bold;
+  color: #fff;
+}
+.status-emaberto{
+  border-color: #61aecc;
+  background-color: #61aeccb3;
+}
+.status-aceito{
+  border-color: #9e5692;
+  background-color: #9e5692b3;
+}
+.status-preparando{
+  border-color: #6a8407;
+  background-color: #6a8407b3;
+}
+.status-transporte{
+  border-color: #b11717;
+  background-color: #b11717b3;
+}
+.status-entregue{
+  border-color: #36a229;
+  background-color: #36a229b3;
+}
+/**** //STATUS ENVIO****/
