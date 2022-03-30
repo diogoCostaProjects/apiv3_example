@@ -52,10 +52,10 @@ define('USUARIO', 1);
 define('PROF', 2);
 
 //CONEXAO BD
-define('MYSQL', 'mysql02-farm2.uni5.net');
-define('USER', 'apsmais');
-define('PASS', 'CXK8345h');
-define('BD', 'apsmais');
+define('MYSQL', '');
+define('USER', '');
+define('PASS', '');
+define('BD', '');
 
 //DADOS ACESSO MOIP
 define('TOKEN_MOIP', 'IGKME8SRD1ZOLYP9PYJJZF3R6HMGKDOL');
